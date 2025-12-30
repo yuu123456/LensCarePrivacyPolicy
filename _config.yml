@@ -1,0 +1,13 @@
+# Jekyll configuration for GitHub Pages
+title: LensCare プライバシーポリシー
+description: LensCareアプリのプライバシーポリシー
+theme: jekyll-theme-minimal
+lang: ja
+
+# Build settings
+markdown: kramdown
+
+# Include files
+include:
+  - privacy-policy.md
+  - index.html
